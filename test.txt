@@ -1,4 +1,2 @@
-change from star 2/3
-change from buxton_xwu 01/31/14
 change from phpStorm 3
 this is a test
