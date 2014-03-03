@@ -1,4 +1,5 @@
-hotfix from hotfix branch
+
+test diverge
 add star 2/3 1
 changedd from phpStorm 3
 this is a test
