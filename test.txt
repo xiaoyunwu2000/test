@@ -1,4 +1,4 @@
-test from github checkout 2/10 10:03
+commit from windows
 test again 2/10/14
 hotfix from hotfix branch
 add star 2/3 1
